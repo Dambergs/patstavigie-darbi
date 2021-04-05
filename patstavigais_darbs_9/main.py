@@ -39,7 +39,6 @@ def university(environ):
 
     return [form.encode()]
 
-
 def application(environ, start_response):
     status = "200 OK"
     headers = [("Content-type", "text/html")]
