@@ -33,7 +33,7 @@ def university(environ):
         Mathematics: <input type="text" name="maths"><br>
         Latvian language: <input type="text" name="latvian"><br>
         Foreign language: <input type="text" name="foreign"><br>
-        <input type="submit">
+        <input type="submit" value="Nosūtīt">
     </form>
     """
 
